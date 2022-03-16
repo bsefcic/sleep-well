@@ -1,0 +1,18 @@
+{
+   "locales": [
+      {
+         "locale": "ro",
+         "displayName": "ro",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": "ro",
+         "crystallizePriceVariant": "default"
+      },
+      {
+         "locale": " en",
+         "displayName": " en",
+         "appLanguage": "en-US",
+         "crystallizeCatalogueLanguage": " en",
+         "crystallizePriceVariant": "default"
+      }
+   ]
+}
