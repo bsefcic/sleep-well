@@ -8,10 +8,10 @@
          "crystallizePriceVariant": "default"
       },
       {
-         "locale": " en",
-         "displayName": " en",
+         "locale": "en",
+         "displayName": "en",
          "appLanguage": "en-US",
-         "crystallizeCatalogueLanguage": " en",
+         "crystallizeCatalogueLanguage": "en",
          "crystallizePriceVariant": "default"
       }
    ]
